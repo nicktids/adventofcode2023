@@ -1,9 +1,6 @@
 #%%
 import re
-#%%
-# Opening file
-file1 = open('input.txt', 'r')
-count = 0
+
  #%%
  
 total = 0
